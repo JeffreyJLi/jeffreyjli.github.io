@@ -2,11 +2,12 @@
 title: "Jeffrey J. Li"
 image: "./assets/JL-headshot.jpg"
 links:
-  - label: LinkedIn
+  - label: 'LinkedIn `r fontawesome::fa("linkedin")`'
     url: "https://www.linkedin.com/in/jeffrey-li-28009b103/"
-  - label: Where I work! <div style="width:60px; height:30px">![ribosome](./assets/ribosome.png)</div>
+  - label: Where I work! ![ribosome](./assets/ribosome.png)
+  # - label: Where I work! <div style="width:60px; height:30px">![ribosome](./assets/ribosome.png)</div>
     url: "https://greenlabjhmi.org/"
-  - label: GitHub
+  - label: 'GitHub `r fontawesome::fa("github")`'
     url: "https://github.com/JeffreyJLi"
 output:
   postcards::solana
