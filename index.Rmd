@@ -17,7 +17,11 @@ output:
 
 I'm a PhD student in the laboratory of Dr. Rachel Green in the Johns Hopkins University Department of Molecular Biology and Genetics. I'm broadly interested in how cells sense and respond to translational distress. Specifically, I'm interested in how this occurs at the level of the ribosome via the ribotoxic stress response and the integrated stress response. 
 
+<<<<<<< HEAD
 I am almost entirely self-taught in programming after drinking the coding Kool-aid in my last year of undergrad. My experience is mostly in Python and bash scripting, so I am excited to learn more R to complement my existing skills and apply them to some bioinformatic analyses I've been planning in lab.
+=======
+I am almost entirely self-taught in programming after drinking the Python Kool-aid in my last year of undergrad. My experience is mostly in Python and bash scripting, so I am excited to learn more R to complement my existing skills and apply them to some bioinformatic analyses I've been planning in lab.
+>>>>>>> 7686ceeab0f6e60b31d4d2e2b131d751946cbd17
 
 Outside of lab, I do all the traditional graduate student activities such as hiking, backpacking, and rock climbing. I am also on a quest to find the best sweet treat in all of Baltimore.
 
