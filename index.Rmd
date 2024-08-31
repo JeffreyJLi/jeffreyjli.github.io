@@ -1,0 +1,50 @@
+---
+title: "Jeffrey J. Li"
+image: "./assets/JL-headshot.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/jeffrey-li-28009b103/"
+  - label: Where I work! <div style="width:60px; height:30px">![ribosome](./assets/ribosome.png)</div>
+    url: "https://greenlabjhmi.org/"
+  - label: GitHub
+    url: "https://github.com/JeffreyJLi"
+output:
+  postcards::solana
+---
+
+## About me
+
+I'm a PhD student in the laboratory of Dr. Rachel Green in the Johns Hopkins University Department of Molecular Biology and Genetics. I'm broadly interested in how cells sense and respond to translational distress. Specifically, I'm interested in how this occurs at the level of the ribosome via the ribotoxic stress response and the integrated stress response. 
+
+Outside of lab, I do all the traditional graduate student activities such as hiking, backpacking, and rock climbing. I am also on a quest to find the best sweet treat in all of Baltimore.
+
+## Education
+
+**Johns Hopkins University** \| Baltimore, USA
+
+Ph.D. \| Biochemistry and Molecular Biology \| August 2020 - Present
+
+**McGill University** \| Montreal, Canada
+
+M.Sc. \| Biochemistry \| May 2016 - February 2019
+
+B.Sc. \| Biochemistry \| September 2013 - May 2016
+
+
+
+## Experience
+
+**Broad Institute of MIT and Harvard** \| Research Associate II \| December 2018 - December 2020
+
+**Student Television at McGill (TVM)** \| Technical Director \| October 2015 - April 2017
+
+## Publications
+
+Sinha NK, McKenney C, Yeow ZY\*, **Li JJ\***, Nam KH\*, Yaron-Barir TM, Johnson JL, Huntsman EM, Cantley LC, Ordureau A, Regot S, Green R. (2024)  *Cell* \| [<font color="LightSeaGreen">**The ribotoxic stress response drives UV-mediated cell death.**</font>](https://doi.org/10.1016/j.cell.2024.05.018) *\*Equal contribution*
+
+
+Ranaghan MJ, **Li JJ**, Laprise DM, Garvie CW. (2021) *BMC Biology* \| [<font color="LightSeaGreen">**Assessing optimal: inequalities in codon optimization algorithms.**</font>](https://doi.org/10.1186/s12915-021-00968-8) 
+
+
+
+*Last updated: August 31st, 2024*
