@@ -47,9 +47,7 @@ Kim KQ\*, **Li JJ**\*, Nanjaraj Urs AN, Pacheco ME, Lasehinde V, Denk T, Tesina 
 
 Sinha NK, McKenney C, Yeow ZY\*, **Li JJ\***, Nam KH\*, Yaron-Barir TM, Johnson JL, Huntsman EM, Cantley LC, Ordureau A, Regot S, Green R. (2024)  *Cell* \| [<font color="LightSeaGreen">**The ribotoxic stress response drives UV-mediated cell death.**</font>](https://doi.org/10.1016/j.cell.2024.05.018) *\*Equal contribution*
 
-
 Ranaghan MJ, **Li JJ**, Laprise DM, Garvie CW. (2021) *BMC Biology* \| [<font color="LightSeaGreen">**Assessing optimal: inequalities in codon optimization algorithms.**</font>](https://doi.org/10.1186/s12915-021-00968-8) 
-
 
 
 *Last updated: May 21st, 2025*
