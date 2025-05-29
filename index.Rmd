@@ -47,7 +47,7 @@ B.Sc. \| Biochemistry \| September 2013 - May 2016
 
 ## Publications
 
-Kim KQ\*, **Li JJ**\*, Nanjaraj Urs AN, Pacheco ME, Lasehinde V, Denk T, Tesina P, Tomomatsu S, Matsuo Y, McDonald E, Beckmann R, Inada T, Green R, Zaher HS. (2024) *Mol Cell* \| [<font color="LightSeaGreen">**Multiprotein bridging factor 1 is required for robust activation of the integrated stress response on collided ribosomes.**</font>](https://doi.org/10.1016/j.molcel.2024.10.029) *\*Equal contribution*
+Kim KQ\*, **Li JJ**\*, Nanjaraj Urs AN\*, Pacheco ME, Lasehinde V, Denk T, Tesina P, Tomomatsu S, Matsuo Y, McDonald E, Beckmann R, Inada T, Green R, Zaher HS. (2024) *Mol Cell* \| [<font color="LightSeaGreen">**Multiprotein bridging factor 1 is required for robust activation of the integrated stress response on collided ribosomes.**</font>](https://doi.org/10.1016/j.molcel.2024.10.029) *\*Equal contribution*
 
 Sinha NK, McKenney C, Yeow ZY\*, **Li JJ\***, Nam KH\*, Yaron-Barir TM, Johnson JL, Huntsman EM, Cantley LC, Ordureau A, Regot S, Green R. (2024)  *Cell* \| [<font color="LightSeaGreen">**The ribotoxic stress response drives UV-mediated cell death.**</font>](https://doi.org/10.1016/j.cell.2024.05.018) *\*Equal contribution*
 
