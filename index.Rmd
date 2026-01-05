@@ -15,11 +15,11 @@ output:
 
 ## About me
 
-I'm a PhD student in the laboratory of Dr. Rachel Green in the Johns Hopkins University Department of Molecular Biology and Genetics. I'm broadly interested in how cells sense and respond to translational distress. Specifically, I'm interested in how this occurs at the level of the ribosome via the ribotoxic stress response and the integrated stress response. 
+I'm a PhD student and biologist in the laboratory of Dr. Rachel Green in the Johns Hopkins University Department of Molecular Biology and Genetics. I'm broadly interested in how cells sense and respond to translational distress. Specifically, I'm interested in how this occurs at the level of the ribosome via the ribotoxic stress response and the integrated stress response. Through this work, I have developed deep expertise in molecular biology and bioinformatics, particularly in mammalian cell culture systems.
 
-I am almost entirely self-taught in programming after learning about its utility during my last year of undergrad. My experience is mostly in Python and bash scripting, so I am excited to learn more R to complement my existing skills and apply them to some bioinformatics-based analyses I've been planning in lab.
+Prior to this, I worked as a protein biochemist at the Broad Institute's Center for the Development of Therapeutics (CDoT). There I purified and characterized candidate proteins to support fragment-based screening and structural biology efforts as a part of multiple drug discovery campaigns. This experience further honed my skills acquired from Dr. Jason Young's group at McGill University. My Bachelor's and Master's theses utilized biochemical and biophysical techniques to characterize proteins involved in the heat shock response *in vitro*.
 
-Outside of lab, I do all the traditional graduate student activities such as hiking, backpacking, and rock climbing. I am also on a quest to find the best sweet treat in all of Baltimore.
+I am almost entirely self-taught in programming after learning about its utility during my last year of undergrad. I have significant experience in Python, R, and bash scripting, which has been incredibly helpful during my graduate work.
 
 ## Education
 
@@ -37,15 +37,17 @@ B.Sc. \| Biochemistry \| September 2013 - May 2016
 
 ## Experience
 
-**Johns Hopkins University** \| *Laboratory of Dr.Rachel Green* \| Student Researcher \| April 2021 - Present
+**Johns Hopkins University** \| *Laboratory of Dr.Rachel Green* \| PhD Candidate \| April 2021 - Present
 
 **Broad Institute of MIT and Harvard** \| *Center for the Development of Therapeutics (CDoT)* \| Research Associate II \| December 2018 - December 2020
 
-**McGill University** \| *Laboratory of Dr. Jason C. Young* \| Student Researcher \| May 2015 - August 2018
+**McGill University** \| *Laboratory of Dr. Jason C. Young* \| BSc/MSc Candidate \| May 2015 - August 2018
 
 **Student Television at McGill (TVM)** \| Technical Director \| October 2015 - April 2017
 
 ## Publications
+
+ORCID: 0009-0000-0871-2481 
 
 Kim KQ\*, **Li JJ**\*, Nanjaraj Urs AN\*, Pacheco ME, Lasehinde V, Denk T, Tesina P, Tomomatsu S, Matsuo Y, McDonald E, Beckmann R, Inada T, Green R, Zaher HS. (2024) *Mol Cell* \| [<font color="LightSeaGreen">**Multiprotein bridging factor 1 is required for robust activation of the integrated stress response on collided ribosomes.**</font>](https://doi.org/10.1016/j.molcel.2024.10.029) *\*Equal contribution*
 
@@ -54,4 +56,4 @@ Sinha NK, McKenney C, Yeow ZY\*, **Li JJ\***, Nam KH\*, Yaron-Barir TM, Johnson 
 Ranaghan MJ, **Li JJ**, Laprise DM, Garvie CW. (2021) *BMC Biology* \| [<font color="LightSeaGreen">**Assessing optimal: inequalities in codon optimization algorithms.**</font>](https://doi.org/10.1186/s12915-021-00968-8) 
 
 
-*Last updated: May 21st, 2025*
+*Last updated: Jan 5, 2026*
