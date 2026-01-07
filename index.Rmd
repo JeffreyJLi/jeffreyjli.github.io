@@ -15,17 +15,17 @@ output:
 
 ## About me
 
-I'm a PhD student and biologist in the laboratory of Dr. Rachel Green in the Johns Hopkins University Department of Molecular Biology and Genetics. I'm broadly interested in how cells sense and respond to translational distress. Specifically, I'm interested in how this occurs at the level of the ribosome via the ribotoxic stress response and the integrated stress response. Through this work, I have developed deep expertise in molecular biology and bioinformatics, particularly in mammalian cell culture systems.
+I'm a biologist with broad experiences across biology from supporting drug discovery efforts using *in vitro* biochemistry to dissecting fundamental cellular mechanisms in tissue culture systems. I am currently a PhD student in the laboratory of Dr. Rachel Green at Johns Hopkins University. I'm broadly interested in how cells sense and respond to translational distress. Specifically, I'm interested in how this occurs at the level of the ribosome via two critical stress pathways, the ribotoxic stress response and the integrated stress response. Through this work, I have developed deep expertise in molecular biology and NGS/bioinformatics in mammalian cell culture settings.
 
-Prior to this, I worked as a protein biochemist at the Broad Institute's Center for the Development of Therapeutics (CDoT). There I purified and characterized candidate proteins to support fragment-based screening and structural biology efforts as a part of multiple drug discovery campaigns. This experience further honed my skills acquired from Dr. Jason Young's group at McGill University. My Bachelor's and Master's theses utilized biochemical and biophysical techniques to characterize proteins involved in the heat shock response *in vitro*.
+Prior to starting my PhD, I worked as a protein biochemist at the Broad Institute's Center for the Development of Therapeutics (CDoT). There I purified and characterized candidate proteins to support fragment-based screening and structural biology efforts as a part of multiple drug discovery campaigns. This experience further refined the skills I initially acquired during my Bachelor's and Master's theses at McGill University. At McGill, I was in Dr. Jason Young's group, utilizing biochemical and biophysical techniques to characterize proteins involved in the heat shock response *in vitro*.
 
-I am almost entirely self-taught in programming after learning about its utility during my last year of undergrad. I have significant experience in Python, R, and bash scripting, which has been incredibly helpful during my graduate work.
+I am almost entirely self-taught in programming after learning about its utility during my last year of undergrad. I have significant experience in Python, R, and bash scripting, which has been incredibly helpful during my graduate work. 
 
 ## Education
 
 **Johns Hopkins University** \| Baltimore, USA
 
-Ph.D. \| Biochemistry and Molecular Biology \| August 2020 - Present
+Ph.D. \| Biochemistry and Molecular Biology \| August 2020 - Present (Expected May 2026)
 
 **McGill University** \| Montreal, Canada
 
@@ -56,4 +56,4 @@ Sinha NK, McKenney C, Yeow ZY\*, **Li JJ\***, Nam KH\*, Yaron-Barir TM, Johnson 
 Ranaghan MJ, **Li JJ**, Laprise DM, Garvie CW. (2021) *BMC Biology* \| [<font color="LightSeaGreen">**Assessing optimal: inequalities in codon optimization algorithms.**</font>](https://doi.org/10.1186/s12915-021-00968-8) 
 
 
-*Last updated: Jan 5, 2026*
+*Last updated: Jan 7, 2026*
